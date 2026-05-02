@@ -4,9 +4,9 @@
 
 | Field | Value |
 |---|---|
-| **Student Name** | [Your Full Name] |
-| **Student ID** | [Your Student ID] |
-| **Public GitHub Repository** | [https://github.com/yourusername/quickpay-fintech-case-study](https://github.com/yourusername/quickpay-fintech-case-study) |
+| **Student Name** | [Om Keshari] |
+| **Student ID** | [BITSOM_FTAI_2601186] |
+| **Public GitHub Repository** | https://github.com/omkeshari-maker/quickpay-fintech-case-study |
 
 ---
 
