@@ -4,8 +4,8 @@
 
 | Field | Value |
 |---|---|
-| **Student Name** | [Om Keshari] |
-| **Student ID** | [BITSOM_FTAI_2601186] |
+| **Student Name** | Om Keshari |
+| **Student ID** | BITSOM_FTAI_2601186 |
 | **Public GitHub Repository** | https://github.com/omkeshari-maker/quickpay-fintech-case-study |
 
 ---
