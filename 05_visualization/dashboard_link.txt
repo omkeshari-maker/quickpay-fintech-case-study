@@ -1,15 +1,1 @@
-https://lookerstudio.google.com/reporting/YOUR-DASHBOARD-ID-HERE
-
-Instructions for the evaluator:
-- Replace the URL above with your actual public Looker Studio dashboard link.
-- The dashboard should be set to "Anyone with the link can view" in sharing settings.
-- Required charts: KPI cards (Total GMV, Confirmed GMV, Amount at Risk, Success Rate),
-  daily trend line, payment method breakdown, region/merchant breakdown, detailed table,
-  and at least one filter (date, payment method, region, or merchant).
-
-Data sources used:
-- 01_data/processed/cleaned_transactions.csv     → main fact table
-- 01_data/processed/daily_summary.csv            → daily trend chart
-- 01_data/processed/payment_method_breakdown.csv → payment method chart
-- 01_data/processed/region_breakdown.csv         → region chart
-- 01_data/processed/merchant_performance_summary.csv → detailed merchant table
+https://datastudio.google.com/reporting/66951dd9-80a1-4af9-9e83-0e8f13314237
